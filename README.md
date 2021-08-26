@@ -1,6 +1,6 @@
 ## **Evangélicos, católicos e ação legislativa**
 
-Esse repositório acomoda dados e análises que subsidiaram a produção de um artigo acadêmico apresentado na ABCP 2020 e aceito para a publicação na Revista Em Tese, que em breve postei o link. Utilizamos nessa análise a linguagem Phyton.
+Esse repositório acomoda dados e análises que subsidiaram a produção de um artigo acadêmico apresentado na ABCP 2020 e aceito para a publicação na Revista Em Tese, que em breve postarei o link. Utilizamos nessa análise a linguagem Phyton.
 
 ### Artigo 
 
@@ -14,10 +14,6 @@ para acessar o artigo *Evangélicos, católicos e ação legislativa: o padrão 
 
 ### Notebooks disponíveis:
 
-*Notebook com as análises feitas para a pesquisa.
-*Banco de dados com proposições de católicos e carismáticos da 54 e 55 legislaturas da Câmara dos Deputados;
-*Script que baixa os projetos de lei em pdf e realiza a mineração de dados dos textos dos documentos, a partir de palavras-chave, como "empreendedorismo". O Modelo ainda retorna um dataframe com os textos dos projetos analisados.
-
-
-A partir do Portal de Dados Abertos da Câmara, o algorítimo que desenvolvi para as pesquisas, formula um banco de dados de proposições legislativas.
+1. Notebook com as análises feitas para a pesquisa.
+2. Script que baixa os projetos de lei em pdf e realiza a mineração de dados dos textos dos documentos, a partir de palavras-chave, como "empreendedorismo". O Modelo ainda retorna um dataframe dos textos desses projetos analisados.
 
