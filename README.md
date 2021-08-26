@@ -8,9 +8,9 @@ para acessar o artigo *Evangélicos, católicos e ação legislativa: o padrão 
 
 ### Bancos de dados:
 
-*Lista dos deputados católicos e evangélicos da 54 e 55 legislaturas;
-*Lista dos deputados por ID;
-*Banco de dados com proposições de católicos e carismáticos da 54 e 55 legislaturas da Câmara dos Deputados;
+1. Lista dos deputados por ID;
+2. Lista dos deputados católicos e evangélicos da 54 e 55 legislaturas;
+3. Banco de dados com Projetos de Lei de deputados católicos e carismáticos da 54 e 55 legislaturas da Câmara dos Deputados;
 
 ### Notebooks disponíveis:
 
