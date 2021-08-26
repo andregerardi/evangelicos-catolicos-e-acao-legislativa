@@ -15,5 +15,5 @@ para acessar o artigo *Evangélicos, católicos e ação legislativa: o padrão 
 ### Notebooks disponíveis:
 
 1. Notebook com as análises feitas para a pesquisa.
-2. Script que baixa os projetos de lei em pdf e realiza a mineração de dados dos textos dos documentos, a partir de palavras-chave, como "empreendedorismo". O Modelo ainda retorna um dataframe dos textos desses projetos analisados.
+2. Script que baixa os projetos de lei em pdf e realiza a mineração de dados dos textos dos documentos, a partir de palavras-chave, como "empreendedorismo". O Modelo ainda retorna uma de projetos que não foram analisados por algum tipo de erro.
 
