@@ -19,15 +19,3 @@ para acessar o artigo *Evangélicos, católicos e ação legislativa: o padrão 
 
 ### Como citar:
 
-citHeader("To cite dataset in publications use:")
-
-citEntry(entry = "Article",
-  title        = "{Evangélicos, católicos e ação legislativa}: banco de dados sobre a atuação secular da “bancada religiosa” na Câmara dos Deputados (2011-2018)",
-  author       = personList(as.person("Dirceu André Gerardi"),
-  journal      = "SocArXiv",
-  year         = "2021",
-
-  textVersion  =
-  paste("Rafael Machado Madeira, Dirceu André Gerardi, Marcos dos Reis Quadros (2020).",
-        "Evangélicos, católicos e ação legislativa: banco de dados sobre a atuação secular da “bancada religiosa” na Câmara dos Deputados (2011-2018).")
-)
