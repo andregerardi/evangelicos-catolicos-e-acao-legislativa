@@ -18,3 +18,16 @@ para acessar o artigo *Evangélicos, católicos e ação legislativa: o padrão 
 2. Script que baixa os projetos de lei em pdf e realiza a mineração de dados dos textos dos documentos, a partir de palavras-chave, como "empreendedorismo". O Modelo ainda retorna uma de projetos que não foram analisados por algum tipo de erro.
 
 ### Como citar:
+
+citHeader("To cite dataset in publications use:")
+
+citEntry(entry = "Article",
+  title        = "{Evangélicos, católicos e ação legislativa}: banco de dados sobre a atuação secular da “bancada religiosa” na Câmara dos Deputados (2011-2018)",
+  author       = personList(as.person("Dirceu André Gerardi"),
+  journal      = "SocArXiv",
+  year         = "2021",
+
+  textVersion  =
+  paste("Rafael Machado Madeira, Dirceu André Gerardi, Marcos dos Reis Quadros (2020).",
+        "Evangélicos, católicos e ação legislativa: banco de dados sobre a atuação secular da “bancada religiosa” na Câmara dos Deputados (2011-2018).")
+)
