@@ -1,6 +1,6 @@
 ## **Evangélicos, católicos e ação legislativa**
 
-Esse repositório acomoda dados e análises que subsidiaram a produção de um artigo acadêmico apresentado na ABCP 2020 e aceito para a publicação na Revista Em Tese, que em breve postarei o link. Utilizamos nessa análise a linguagem Phyton.
+Esse repositório acomoda dados e análises que subsidiaram a produção de um artigo acadêmico apresentado na ABCP 2020 e aceito para a publicação na Revista Em Tese, que em breve postarei o link. Utilizamos nessa análise a linguagem Phyton. Esse repósitório exemplifica o caminho metólógico para a produção dos dados. 
 
 ### Artigo 
 
