@@ -17,5 +17,5 @@ Para acessar o artigo *Evangélicos, católicos e ação legislativa: o padrão 
 1. Notebook com as análises feitas para a pesquisa.
 2. Script que baixa os projetos de lei em pdf e realiza a mineração de texto nos documentos, a partir de palavras-chave, tal como "empreendedorismo".
 
-### Como citar:
+### Como citar o banco de dados:
 
