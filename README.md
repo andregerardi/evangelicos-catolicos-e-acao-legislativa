@@ -21,3 +21,8 @@ Para acessar o artigo *Evangélicos, católicos e ação legislativa: o padrão 
 
 GERARDI, Dirceu André. Repositório. Dados da pesquisa Evangélicos, católicos e ação legislativa: o padrão secular de atuação da “bancada religiosa” na Câmara dos Deputados (2011-2018). Postado em 2021. Disponível em: <https://github.com/andregerardi/evangelicos-catolicos-e-acao-legislativa>.
 
+### Como referenciar o artigo
+
+MADEIRA, Rafael Machado; GERARDI, Dirceu André; QUADROS, Marcos dos Reis. Atuação secular da bancada religiosa na Câmara dos Deputados (2011-2018). Estudos de Sociologia, Araraquara, v.00, n.00, p. 000-000, mês/mês., 2022. ISSN: 2358-4238. Disponível em: <>
+
+
